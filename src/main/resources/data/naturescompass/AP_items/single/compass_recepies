@@ -1,1 +1,7 @@
-test
+{
+  "mod": "naturescompass",
+  "entries": [
+    "minecraft:compass",
+    "naturescompass:nature's_compass"
+  ]
+}
